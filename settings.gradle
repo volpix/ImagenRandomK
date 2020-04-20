@@ -1,0 +1,2 @@
+rootProject.name='ImagenRandomK'
+include ':app'
